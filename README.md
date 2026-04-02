@@ -1,10 +1,10 @@
 # LangChain Chatbot Experiments
 
-This project contains Jupyter Notebook experiments using LangChain to build different types of chatbots with large language models (LLMs).
+This project contains experiments using LangChain to build different types of chatbots with large language models (LLMs).
 
 ## Overview
 
-The notebook explores how LLMs can be used through APIs and how concepts like prompt engineering, embeddings, and retrieval work in real applications.
+I explored how LLMs can be used through APIs and how concepts like prompt engineering, embeddings, and retrieval work in real applications.
 
 ## What I Built
 
